@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@turf/bbox": "^6.5.0",
-    "bootstrap": "5.2.3",
+    "bootstrap": "5.3.0",
     "cors": "2.8.5",
     "csbbust": "1.0.1",
     "date-fns": "2.29.3",
